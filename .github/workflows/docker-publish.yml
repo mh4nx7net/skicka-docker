@@ -24,5 +24,4 @@ jobs:
           context: '.'
           file: ./Dockerfile
           push: true
-          load: true
           tags: quay.io/satackey/skicka:latest
